@@ -1,5 +1,9 @@
 # [![](https://i.imgur.com/rb8oPur.png)](http://turbo.github.io)
 
+
+(obs: this fork (turbojs_many_input_arrays) is just a tiny modification to the original Turbo.JS allowing for multiple input arrays)
+
+
 turbo.js is a small library that makes it easier to perform complex calculations that can be done in parallel. The actual calculation performed (the *kernel* executed) uses the GPU for execution. This enables you to work on an array of values all at once.
 
 turbo.js is compatible with all browsers (even IE when not using ES6 template strings) and most desktop and mobile GPUs.
